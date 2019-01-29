@@ -44,9 +44,9 @@
         <tr>
             <td>1/17/2019</td>
             <td></td>
-            <td><ul><li>- [ ] Hadoop & HDFS Basic</li></td>
+            <td><ul><li>- [x] Hadoop & HDFS Basic</li></td>
             <td><ul><li>- [x] HW1 Due (1/20/2019)</li></td>
-            <td></td>
+            <td>1/29/2019</td>
             <td>  </td>
         </tr>
         <tr>
