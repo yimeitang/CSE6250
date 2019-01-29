@@ -27,7 +27,7 @@
         <tr>
             <td>1/10/2019</td>
             <td><ul><li>- [x] 2. Course Overview</li></td>
-            <td><ul><li>- [ ] Scala Basic </li><li>- [ ] Scala Introduction </li></td>
+            <td><ul><li>- [x] Scala Basic </li><li>- [ ] Scala Introduction </li></td>
             <td></td>
             <td>1/28/2019</td>
             <td>  </td>
