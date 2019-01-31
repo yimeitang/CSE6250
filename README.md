@@ -52,11 +52,11 @@
         <tr>
             <td rowspan=2>3</td>
             <td>1/22/2019</td>
-            <td><ul><li>- [ ] 4.MapReduce& HBase</li></td>
+            <td><ul><li>- [x] 4.MapReduce& HBase</li></td>
             <td></td>
             <td></td>
-            <td></td>
-            <td>  </td>
+            <td>1/30/2019</td>
+            <td>Need to take notes</td>
         </tr>
         <tr>
             <td>1/24/2019</td>
