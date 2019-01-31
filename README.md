@@ -35,10 +35,10 @@
         <tr>
             <td rowspan=2>2</td>
             <td>1/15/2019</td>
-            <td><ul><li>- [ ] 3. Predictive Modeling</li></td>
+            <td><ul><li>- [x] 3. Predictive Modeling</li></td>
             <td></td>
             <td></td>
-            <td></td>
+            <td>1/30/2019</td>
             <td>  </td>
         </tr>
         <tr>
