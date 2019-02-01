@@ -77,11 +77,11 @@
         </tr>
         <tr>
             <td>1/31/2019</td>
-            <td><ul><li>- [ ] 6.Classification ensemble methods</li></td>
+            <td><ul><li>- [x] 6.Classification ensemble methods</li></td>
             <td></td>
             <td><ul><li>- [ ] HW2 Due (2/3/2019)</li></td>
             <td></td>
-            <td>  </td>
+            <td>Need to take notes</td>
         </tr>
         <tr>
             <td rowspan=2>5</td>
