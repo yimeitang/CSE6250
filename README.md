@@ -61,10 +61,10 @@
         <tr>
             <td>1/24/2019</td>
             <td> </td>
-            <td><ul><li>- [ ] Hadoop Pig & Hive</li></td>
+            <td><ul><li>- [x] Hadoop Pig & Hive</li></td>
             <td></td>
-            <td></td>
-            <td>  </td>
+            <td>1/31/2019</td>
+            <td>Need to take notes</td>
         </tr>
         <tr>
             <td rowspan=2>4</td>
