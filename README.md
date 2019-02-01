@@ -69,11 +69,11 @@
         <tr>
             <td rowspan=2>4</td>
             <td>1/29/2019</td>
-            <td><ul><li>- [ ] 5.Classification evaluation metrics</li></td>
+            <td><ul><li>- [x] 5.Classification evaluation metrics</li></td>
             <td></td>
             <td></td>
-            <td></td>
-            <td>  </td>
+            <td>1/31/2019</td>
+            <td>Need to take notes</td>
         </tr>
         <tr>
             <td>1/31/2019</td>
