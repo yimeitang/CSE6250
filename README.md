@@ -86,11 +86,11 @@
         <tr>
             <td rowspan=2>5</td>
             <td>2/5/2019</td>
-            <td><ul><li>- [ ] 7. Phenotyping</li></td>
+            <td><ul><li>- [x] 7. Phenotyping</li></td>
             <td></td>
             <td></td>
-            <td></td>
-            <td>  </td>
+            <td>2/14/2019</td>
+            <td>Need to take notes</td>
         </tr>
         <tr>
             <td>2/7/2019</td>
