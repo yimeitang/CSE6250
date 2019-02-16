@@ -112,10 +112,10 @@
         <tr>
             <td>2/14/2019</td>
             <td></td>
-            <td><ul><li>- [ ] Spark Application & Spark MLlib </li></td>
+            <td><ul><li>- [x] Spark Application & Spark MLlib </li></td>
             <td><ul><li>- [ ] HW3 Due & Project Group Formation & Project Requirements Release (2/17/2019)</li></td>
-            <td></td>
-            <td>  </td>
+            <td>2/16/2019</td>
+            <td>Need to take notes</td>
         </tr>
         <tr>
             <td rowspan=2>7</td>
