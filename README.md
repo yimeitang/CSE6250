@@ -95,10 +95,10 @@
         <tr>
             <td>2/7/2019</td>
             <td><ul><li>- [x] 8. Clustering</li></td>
-            <td><ul><li>- [ ] Spark Basic </li><li>- [ ] Spark SQL </li></td>
+            <td><ul><li>- [x] Spark Basic </li><li>- [x] Spark SQL </li></td>
             <td></td>
-            <td></td>
-            <td>  </td>
+            <td>2/16/2019</td>
+            <td>Need to take notes</td>
         </tr>
         <tr>
             <td rowspan=2>6</td>
