@@ -120,7 +120,7 @@
         <tr>
             <td rowspan=2>7</td>
             <td>2/19/2019</td>
-            <td><ul><li>- [ ] 10. Medical ontology</li></td>
+            <td><ul><li>- [x] 10. Medical ontology</li></td>
             <td></td>
             <td></td>
             <td></td>
