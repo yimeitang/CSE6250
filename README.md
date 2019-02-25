@@ -113,7 +113,7 @@
             <td>2/14/2019</td>
             <td></td>
             <td><ul><li>- [x] Spark Application & Spark MLlib </li></td>
-            <td><ul><li>- [ ] HW3 Due & Project Group Formation & Project Requirements Release (2/17/2019)</li></td>
+            <td><ul><li>- [x] HW3 Due & Project Group Formation & Project Requirements Release (2/17/2019)</li></td>
             <td>2/16/2019</td>
             <td>Need to take notes</td>
         </tr>
@@ -123,7 +123,7 @@
             <td><ul><li>- [x] 10. Medical ontology</li></td>
             <td></td>
             <td></td>
-            <td></td>
+            <td>2/25/2019</td>
             <td>  </td>
         </tr>
         <tr>
