@@ -124,7 +124,7 @@
             <td></td>
             <td></td>
             <td>2/25/2019</td>
-            <td>  </td>
+            <td>Need to take notes</td>
         </tr>
         <tr>
             <td>2/21/2019</td>
@@ -137,11 +137,11 @@
         <tr>
             <td rowspan=2>8</td>
             <td>2/26/2019</td>
-            <td><ul><li>- [ ] 11. Graph analysis</li></td>
+            <td><ul><li>- [x] 11. Graph analysis</li></td>
             <td></td>
             <td></td>
-            <td></td>
-            <td>  </td>
+            <td>2/25/2019</td>
+            <td>Need to take notes</td>
         </tr>
         <tr>
             <td>2/28/2019</td>
