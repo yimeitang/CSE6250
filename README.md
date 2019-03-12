@@ -146,27 +146,27 @@
         <tr>
             <td>2/28/2019</td>
             <td></td>
-            <td><ul><li>- [ ] Spark GraphX </li></td>
-            <td><ul><li>- [ ] Project Proposal Due (3/3/2019)</li></td>
-            <td></td>
-            <td>  </td>
+            <td><ul><li>- [x] Spark GraphX </li></td>
+            <td><ul><li>- [x] Project Proposal Due (3/3/2019)</li></td>
+            <td>3/3/2019</td>
+            <td>Need to take notes</td>
         </tr>
         <tr>
             <td rowspan=2>9</td>
             <td>3/5/2019</td>
-            <td><ul><li>- [ ] 12. Dimensionality Reduction </li><li>- [ ] 13. Patient similarity</li></td>
+            <td><ul><li>- [x] 12. Dimensionality Reduction </li><li>- [x] 13. Patient similarity</li></td>
             <td></td>
             <td></td>
-            <td></td>
-            <td>  </td>
+            <td>3/9/2019</td>
+            <td>Need to take notes</td>
         </tr>
         <tr>
             <td>3/7/2019</td>
             <td><ul><li>- [ ] 14. DNN</li></td>
             <td><ul><li>- [ ] Deep Learning Lab by Sungtae An </li></td>
-            <td><ul><li>- [ ] HW4 Due (3/10/2019)</li></td>
-            <td></td>
-            <td>  </td>
+            <td><ul><li>- [x] HW4 Due (3/10/2019)</li></td>
+            <td>3/10/2019</td>
+            <td>Need to take notes</td>
         </tr>
         <tr>
             <td rowspan=2>10</td>
