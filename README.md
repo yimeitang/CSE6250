@@ -175,7 +175,7 @@
             <td><ul><li>- [x] Deep Learning Lab by Sungtae An - Cont</li></td>
             <td></td>
             <td>3/23/2019</td>
-            <td></td>
+            <td>Need to take notes</td>
         </tr>
         <tr>
             <td>3/14/2019</td>
@@ -183,7 +183,7 @@
             <td></td>
             <td></td>
             <td>3/23/2019</td>
-            <td></td>
+            <td>Need to take notes</td>
         </tr>
         <tr>
             <td rowspan=1>11</td>
