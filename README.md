@@ -162,8 +162,8 @@
         </tr>
         <tr>
             <td>3/7/2019</td>
-            <td><ul><li>- [ ] 14. DNN</li></td>
-            <td><ul><li>- [ ] Deep Learning Lab by Sungtae An </li></td>
+            <td><ul><li>- [x] 14. DNN</li></td>
+            <td><ul><li>- [x] Deep Learning Lab by Sungtae An </li></td>
             <td><ul><li>- [x] HW4 Due (3/10/2019)</li></td>
             <td>3/10/2019</td>
             <td>Need to take notes</td>
@@ -171,19 +171,19 @@
         <tr>
             <td rowspan=2>10</td>
             <td>3/12/2019</td>
-            <td><ul><li>- [ ] 15. CNN </li></td>
-            <td><ul><li>- [ ] Deep Learning Lab by Sungtae An - Cont</li></td>
+            <td><ul><li>- [x] 15. CNN </li></td>
+            <td><ul><li>- [x] Deep Learning Lab by Sungtae An - Cont</li></td>
             <td></td>
             <td></td>
-            <td>  </td>
+            <td>3/23/2019</td>
         </tr>
         <tr>
             <td>3/14/2019</td>
-            <td><ul><li>- [ ] 16. RNN</li></td>
+            <td><ul><li>- [x] 16. RNN</li></td>
             <td></td>
             <td></td>
             <td></td>
-            <td>  </td>
+            <td>3/23/2019</td>
         </tr>
         <tr>
             <td rowspan=1>11</td>
